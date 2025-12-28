@@ -1,0 +1,5 @@
+{
+  "name": "CP-AI Polygon",
+  "description": "An advanced AI-powered system for Competitive Programming that converts problem statements into formal specifications, generates intelligent test cases, and acts as a stress tester and judge.",
+  "requestFramePermissions": []
+}
